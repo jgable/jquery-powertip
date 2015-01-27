@@ -6,6 +6,10 @@ PowerTip is a jQuery tooltip plugin with some advanced features like **hover int
 [![Dependency Status](https://gemnasium.com/stevenbenner/jquery-powertip.svg)](https://gemnasium.com/stevenbenner/jquery-powertip)
 [![Release Version](http://img.shields.io/github/release/stevenbenner/jquery-powertip.svg)][projectpage]
 
+## NOTE
+
+This fork only exists to check in the dist folder for easier bower integration.
+
 ## Getting Started
 
 * Download the latest stable release from the [PowerTip web site][projectpage].
