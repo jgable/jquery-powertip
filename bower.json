@@ -8,20 +8,22 @@
     "dist/css/jquery.powertip.css"
   ],
   "ignore": [
-    "css",
-    "doc",
-    "examples",
-    "src",
-    "test",
+    "css/",
+    "doc/",
+    "examples/",
+    "src/",
+    "test/",
     ".editorconfig",
     ".gitattributes",
     ".gitignore",
-    ".jscrc",
+    ".jscsrc",
     ".jshintrc",
     ".travis.yml",
     "Gruntfile.js",
     "package.json",
-    "powertip.jquery.json"
+    "powertip.jquery.json",
+    "dist/CHANGELOG.yml",
+    "dist/LICENSE.txt"
   ],
   "authors": [
     "Jacob Gable <jacob.gable@gmail.com>"
@@ -30,5 +32,8 @@
     "jquery",
     "powertip"
   ],
+  "dependencies": {
+    "jquery": ">= 1.7"
+  },
   "license": "MIT"
 }
