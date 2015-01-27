@@ -2,7 +2,7 @@
   "name": "jquery-powertip-dist",
   "description": "A fork of jquery-powertip (https://github.com/stevenbenner/jquery-powertip) with dist files checked in",
   "homepage": "https://github.com/jgable/jquery-powertip",
-  "version": "1.2.0",
+  "version": "1.2.0-dist",
   "main": [
     "dist/jquery.powertip.js",
     "dist/css/jquery.powertip.css"
@@ -22,5 +22,13 @@
     "Gruntfile.js",
     "package.json",
     "powertip.jquery.json"
-  ]
+  ],
+  "authors": [
+    "Jacob Gable <jacob.gable@gmail.com>"
+  ],
+  "keywords": [
+    "jquery",
+    "powertip"
+  ],
+  "license": "MIT"
 }
